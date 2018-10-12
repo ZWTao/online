@@ -1,4 +1,4 @@
-ThinkPHP 5.0
+On Line Test
 ===============
 
 [![Total Downloads](https://poser.pugx.org/topthink/think/downloads)](https://packagist.org/packages/topthink/think)
@@ -6,7 +6,7 @@ ThinkPHP 5.0
 [![Latest Unstable Version](https://poser.pugx.org/topthink/think/v/unstable)](https://packagist.org/packages/topthink/think)
 [![License](https://poser.pugx.org/topthink/think/license)](https://packagist.org/packages/topthink/think)
 
-ThinkPHP5在保持快速开发和大道至简的核心理念不变的同时，PHP版本要求提升到5.4，对已有的CBD模式做了更深的强化，优化核心，减少依赖，基于全新的架构思想和命名空间实现，是ThinkPHP突破原有框架思路的颠覆之作，其主要特性包括：
+On Line Test 在保持快速开发和大道至简的核心理念不变的同时，PHP版本要求提升到5.4，对已有的CBD模式做了更深的强化，优化核心，减少依赖，基于全新的架构思想和命名空间实现，是ThinkPHP突破原有框架思路的颠覆之作，其主要特性包括：
 
  + 基于命名空间和众多PHP新特性
  + 核心功能组件化
@@ -26,7 +26,7 @@ ThinkPHP5在保持快速开发和大道至简的核心理念不变的同时，PH
  + 分布式环境支持
  + 更多的社交类库
 
-> ThinkPHP5的运行环境要求PHP5.4以上。
+> On Line Test 的运行环境要求PHP5.4以上。
 
 > router.php用于php自带webserver支持，可用于快速测试
 > 切换到public目录后，启动命令：php -S localhost:8888  router.php
